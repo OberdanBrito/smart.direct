@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\smart.direct.exe.config
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\smart.direct.exe
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\smart.direct.pdb
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\Geckofx-Core.dll
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\Geckofx-Core.pdb
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.gnav.FormMain.resources
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.gnav.Properties.Resources.resources
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.csproj.CopyComplete
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.exe
+C:\Users\Administrador\source\repos\smart.gnav\smart.gnav\obj\Debug\smart.direct.pdb
